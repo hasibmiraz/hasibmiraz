@@ -8,13 +8,13 @@ I am currently studying in Khulna University Of Engineering And Technology. I'm 
 I really love to learn about programming and I'm trying to learn new things everyday. Because programming is fun. If I think of doing something and if I don't know about the project or a specific part then I try to learn about it. Because I love to learn new things about programming. 
 
 Skills: 
-🔰 HTML
-🔰 CSS
-🔰 TAILWIND
-🔰 JAVASCRIPT
-🔰 REACT
-🔰 EXPRESS
-🔰 MONGODB
+🔰 HTML<br>
+🔰 CSS<br>
+🔰 TAILWIND<br>
+🔰 JAVASCRIPT<br>
+🔰 REACT<br>
+🔰 EXPRESS<br>
+🔰 MONGODB<br>
 
 - 🔭 I’m currently working on a movie review app 
 - 🌱 I’m currently learning Full Stack Web Development 
