@@ -1,7 +1,7 @@
 ![I am a MERN Stack Web Developer](https://repository-images.githubusercontent.com/437799537/bd2c6298-70dd-4018-a45f-5d5c678ff748)
 
-### Hi there 👋, I am Md Hasibul Alam
-#### I am a MERN Stack Web Developer
+## Hi there 👋, I am Md Hasibul Alam
+### I am a MERN Stack Web Developer
 
 I am currently studying in Khulna University Of Engineering And Technology. I'm very much passionate about programming that's why I am learning web development in MERN stack. I've worked on some practice projects to level up my skills. You can have a look at my github profile. 
 
@@ -19,7 +19,5 @@ Skills: HTML/ CSS/ TAILWIND/ JAVASCRIPT /REACT /EXPRESS /MONGODB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasibmiraz)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasibmiraz&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hasibmiraz)  
 
 ![Profile views](https://gpvc.arturio.dev/hasibmiraz)  
