@@ -25,6 +25,4 @@ Skills:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasibmiraz&show_icons=true&theme=dracula)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasibmiraz&show_icons=true)  
-
 ![Profile views](https://gpvc.arturio.dev/hasibmiraz)  
