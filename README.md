@@ -1,6 +1,6 @@
 ![I am a MERN Stack Web Developer](https://repository-images.githubusercontent.com/437799537/bd2c6298-70dd-4018-a45f-5d5c678ff748)
 
-## Hi there 👋, I am Md Hasibul Alam
+# Hi, I am Md Hasibul Alam
 ### I am a MERN Stack Web Developer
 
 I am currently studying in Khulna University Of Engineering And Technology. I'm very much passionate about programming that's why I am learning web development in MERN stack. I've worked on some practice projects to level up my skills. You can have a look at my github profile. 
